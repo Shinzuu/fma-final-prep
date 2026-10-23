@@ -6,7 +6,7 @@ A single-page, printable study guide for the **Financial & Managerial Accounting
 
 ## What's inside
 
-16 topics, about 33 printed pages. Each topic follows the same cycle: learn, worked example, slide problems, practice, MCQ, then answers.
+16 topics, about 32 printed pages. Each topic follows the same cycle: learn, worked example, slide problems, practice, MCQ, then answers.
 
 | Chapter | Topics |
 |---|---|
